@@ -1,0 +1,30 @@
+_repo: Company-A-corps-of-engineers-U.S.A.-1846--48-in-the-Mexican-war_31113
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Gustavus Woodson
+    alias: Smith, G. W. (Gustavus Woodson)
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '35010'
+    url: http://www.gutenberg.org/2009/agents/35010
+    wikipedia: http://en.wikipedia.org/wiki/Gustavus_Woodson_Smith
+description: ''
+gutenberg_issued: '2010-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31113'
+  lccn: 04011992
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexican War, 1846-1848 -- Regimental histories -- United States -- Engineers'
+- !lcsh 'United States. Army. Corps of Engineers. Company A'
+- !lcc 'E300'
+title: Company 'A', corps of engineers, U.S.A., 1846-'48, in the Mexican war
+url: http://www.gutenberg.org/ebooks/31113
